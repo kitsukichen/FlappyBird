@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "FlappyBirdInputs",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "c8c89333-cbc2-493b-ae9e-b046218a80bb",
+            "actions": [
+                {
+                    "name": "Jump",
+                    "type": "Button",
+                    "id": "a31e8eb9-4b78-437f-9b0f-e57fb44977da",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "ebdc7a49-4131-401d-8d92-a7e68f940414",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Jump",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
